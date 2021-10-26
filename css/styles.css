@@ -29,7 +29,7 @@ html {
 }
 body {
   margin: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   letter-spacing: 0.03em;
   font-size: 14px;
   background-color: var(--main-white-color);
@@ -88,7 +88,7 @@ p {
 
 /*лого*/
 .logo-webstudio {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.15;
@@ -140,7 +140,7 @@ p {
 
 /*футер*/
 .light-logo-webstudio {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.15;
@@ -198,7 +198,7 @@ p {
 .hero-container {
   padding-top: 200px;
   padding-bottom: 200px;
-  background-color: var(--dark-accent-color);
+  background-color: #f79cd8;
   text-align: center;
 }
 
