@@ -179,7 +179,7 @@ p {
   margin-bottom: 9px;
 }
 .footer {
-  background-color: var(--dark-accent-color);
+  background-color:red;
   padding-top: 60px;
   padding-bottom: 60px;
   text-align: start;
