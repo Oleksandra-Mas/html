@@ -165,10 +165,12 @@ p {
 .list-item:not(:last-child) {
   margin-bottom: 9px;
 }
+
 .light-contacts-link:hover,
 .light-contacts-link:focus {
   color: var(--accent-color);
 }
+
 .office-address {
   font-weight: 400;
   line-height: 1.7;
@@ -179,7 +181,7 @@ p {
   margin-bottom: 9px;
 }
 .footer {
-  background-color:red;
+  background-color: red;
   padding-top: 60px;
   padding-bottom: 60px;
   text-align: start;
